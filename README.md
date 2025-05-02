@@ -60,6 +60,4 @@ In your terminal:
 - You'll see the **Muyan-TTS Speech Generator** interface (as shown in your image).
 - Upload a reference voice (WAV), input your text, and click **Generate Speech**.
 
----
 
-Let me know if you want this as a downloadable PDF guide or in another language!
